@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math Magicians
+# Todo List App
 
 This is my to-do list website built with React JS. It is used to list the programs to be done in a day.
 
